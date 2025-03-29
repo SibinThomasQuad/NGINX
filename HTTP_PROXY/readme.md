@@ -1,6 +1,6 @@
 Here's the **README.md** formatted version of the documentation:
 
-```markdown
+
 # Nginx HTTP and HTTPS Proxy Server with SSL/TLS
 
 This guide will show you how to set up an **HTTP** and **HTTPS** proxy server using **Nginx**. It covers basic HTTP proxy setup and an HTTPS proxy setup with SSL/TLS encryption for secure connections.
